@@ -8,6 +8,15 @@
       ],
       "js.map": [
         "/packs/js/application-b135e5081edeaf8975b0.js.map"
+  "application.js": "/packs/js/application-f5b75f42ad5fbb122016.js",
+  "application.js.map": "/packs/js/application-f5b75f42ad5fbb122016.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-f5b75f42ad5fbb122016.js"
+      ],
+      "js.map": [
+        "/packs/js/application-f5b75f42ad5fbb122016.js.map"
       ]
     }
   }
